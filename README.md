@@ -21,7 +21,7 @@ end)
 
 ### usage
 
-':colorscheme visitant'
+`:colorscheme visitant`
 
 ### credits
 
