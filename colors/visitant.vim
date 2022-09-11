@@ -16,7 +16,7 @@ highlight! PmenuSel guibg=bg guifg=fg
 highlight! ColorColumn guibg=#a1a1a1 guifg=#777777 ctermbg=7
 highlight! StatusLine guibg=fg guifg=bg gui=none cterm=none
 highlight! StatusLineNC guibg=fg guifg=bg gui=none cterm=none
-highlight! MatchParen guifg=#9c022b guibg=bg cterm=none ctermfg=124 ctermbg=none
+highlight! MatchParen guifg=#9c022b guibg=bg cterm=none ctermfg=124 ctermbg=249, reverse
 
 highlight! DiagnosticError guibg=bg guifg=#9c022b gui=italic cterm=italic ctermbg=bg ctermfg=124
 highlight! DiagnosticWarn guibg=bg guifg=#bf8c00 gui=italic cterm=italic ctermbg=bg ctermfg=172
